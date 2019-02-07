@@ -222,7 +222,7 @@ nav a:hover {
   border: none;
   border-radius: 5px;
   text-align: center;
-  display: block;
+  display: inline-block;
   margin: 0 auto;
   color: #111 !important;
   cursor: pointer;
